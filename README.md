@@ -1,7 +1,7 @@
 # Entity_Relationship_with_Knowledge_Graph
 The code in this repository provides a simple and basic implementation of Knowledge graphs by leveraging named entity recognition (NER) and entity relationships.
 
-The relationships and recognition of name entitities are performed using pre-trained language models. 
+The relationships and recognition of name entities are performed using pre-trained language models. 
 
 The pre-trained language model extract informative facts using language representation while combining the knowledge, syntactic, and lexical knowledge. 
 
