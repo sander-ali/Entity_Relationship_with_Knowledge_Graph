@@ -1,7 +1,9 @@
 # Entity_Relationship_with_Knowledge_Graph
-The code in this repository provides a simple and basic implementation of Enhanced Language Representation with Informative Entities [ERNIE](https://arxiv.org/abs/1905.07129) using various NLP packages. 
+The code in this repository provides a simple and basic implementation of Knowledge graphs by leveraging named entity recognition (NER) and entity relationships.
 
-ERNIE uses Heterogeneous information fusion along with structured knowledge encoding. The latter refers to the extraction of informative facts using language representation models while the former combines the knowledge, syntactic, and lexical knowledge for specialized training of the language model. 
+The relationships and recognition of name entitities are performed using pre-trained language models. 
+
+The pre-trained language model extract informative facts using language representation while combining the knowledge, syntactic, and lexical knowledge. 
 
 Following packages need to be installed before running the code
 
